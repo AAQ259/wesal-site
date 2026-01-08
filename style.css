@@ -118,3 +118,4 @@ input:focus, textarea:focus{border-color:rgba(214,178,94,.45)}
   font-size:13px;
 }
 .sep{height:1px;background:var(--line);margin:14px 0}
+Remove duplicate style.css
